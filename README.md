@@ -1,4 +1,4 @@
-# Boat Speed Estimation from Grid-Based Buoy Locations
+# Grid-Based-Line-Detection
 ## How it works
 | Detected Grid                   | Detected Lines                        | 
 |---------------------------------|---------------------------------------|
