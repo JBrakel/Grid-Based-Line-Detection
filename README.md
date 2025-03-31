@@ -3,6 +3,7 @@
 | Detected Grid                   | Detected Lines                        | 
 |---------------------------------|---------------------------------------|
 | ![Detected Grid](imgs/grid.gif) | ![Detected Lines](imgs/final_lines.gif) | 
+
 **Left:** The detected grid.  
 **Right:** The detected lines (green) are extracted based on the grid detection. The red lines represent manually set labels, which are required for metrics.
 
