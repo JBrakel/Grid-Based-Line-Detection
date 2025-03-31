@@ -1,0 +1,10 @@
+venv_*
+__pycache__
+.idea
+*.jpg
+grid_sliders.py
+infer_onnx.py
+requirements_3.11.txt
+test_blender.py
+visualize_3d_coords.py
+Images
